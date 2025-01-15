@@ -6,7 +6,7 @@ A responsive, interactive video player with embedded background music and seamle
 
 ## Installation
 
-1. Clone the repository: `git clone git@github.com:Armaghan-Bakht/Interactive-Video-Player.git`
+1. Clone the repository: `git clone git@github.com:Armaghan-Bakht/Video-Player.git`
 2. Open `index.html` in a browser.
 
 ## Usage
