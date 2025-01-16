@@ -1,0 +1,2 @@
+No external dependencies required for this project
+This file is provided as a placeholder if future extensions require additional libraries
